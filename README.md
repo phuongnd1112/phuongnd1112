@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**phuongnd1112/phuongnd1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Phuong, a student who's coding on the side to discover more cool things in the world. Feel free to reach out! 
 
-Here are some ideas to get you started:
+##### 🔭 I’m currently exploring: 
+- Algo Trading & Backtesting Trading Strategies 
+- Small Data Exploration Topics relating to the Social Sciences:
+  - Public Health Data
+  - Labour Restructuring Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 I’m currently learning: 
+- C++ 
+- More Python and R 
+
+#### 📫 Have a chat! 
+Feel free to reach out to me! My contacts are linked in my profile! <br> 
+Happy Coding! 
