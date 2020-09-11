@@ -10,7 +10,7 @@ My name is Phuong, a student who's coding on the side to discover more cool thin
 
 #### 🌱 I’m currently learning: 
 - C++ 
-- More Python and R 
+- More Python
 
 #### 📫 Have a chat! 
 Feel free to reach out to me! My contacts are linked in my profile! <br> 
